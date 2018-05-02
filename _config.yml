@@ -76,7 +76,7 @@ service-worker: true
 friends: [
     {
          title: "PSEG",
-         href: "pseg.dlut.edu.cn"
+         href: "/pseg.dlut.edu.cn"
      },{
     }
 ]
