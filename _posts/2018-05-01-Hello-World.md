@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2018"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-05-01 12:00:00
+date:       2018-05-01 00:00:00
 author:     "Chy"
 header-img: "img/post-bg-2018.jpg"
 catalog: true
