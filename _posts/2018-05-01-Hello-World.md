@@ -15,4 +15,4 @@ tags:
 
 ## 前言
 
-Chy 的 Blog 来了，模板是简单copy [@Hux](http://huxpro.github.io)，在这里表示感谢，后期有时间会逐步完善和充实。
+Chy 的 Blog 来了，模板是简单copy [@Hux](https://github.com/Huxpro/huxpro.github.io)，在这里表示感谢，后期有时间会逐步进行完善和充实。
