@@ -2,21 +2,21 @@
 title: Chy Blog
 SEOTitle: 蓝鲸博客 | Chy Blog
 header-img: img/home-bg.jpg
-email: jysun1993@163.com
-description: "Ph.D,Plasma, Latex | 这里是 @Chy蓝鲸的个人博客，分享点滴知识。"
+email: sunjingyu1993@gmail.com
+description: "Ph.D,Plasma,Physics,Latex | 这里是 @Chy蓝鲸的个人博客，分享点滴知识。"
 keyword: "蓝鲸, Chy蓝鲸,Chy, 蓝鲸的博客, Chy Blog, 博客"
-url: "https://jysun.top"              # your host, for absolute URL
+url: "https://jysun.top"                # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-#weibo_username:     chysun
-#zhihu_username:     chysun
+weibo_username:      chysun
+zhihu_username:      chysun
 github_username:     chysun
-#twitter_username:   chysun
-#facebook_username:  chysun
+twitter_username:    chysun
+facebook_username:   chysun
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -53,8 +53,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: jysun1993.top
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -75,8 +75,8 @@ service-worker: true
 # Friends
 friends: [
     {
-         title: "PSEG",
-         href: "/pseg.dlut.edu.cn"
+         title: "PSEG课题组",
+         href:"pseg.dlut.edu.cn"
      },{
     }
 ]
