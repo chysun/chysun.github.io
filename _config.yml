@@ -75,7 +75,7 @@ service-worker: true
 friends: [
     {
          title: "PSEG课题组",
-         href:"pseg.dlut.edu.cn"
+         href:"http://pseg.dlut.edu.cn"
      },{
     }
 ]
