@@ -1,22 +1,22 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Chy Blog
+SEOTitle: 蓝鲸博客 | Chy Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+email: sunjingyu1993@gmail.com
+description: "Ph.D,Plasma,Physics,Latex | 这里是 @Chy蓝鲸的个人博客，分享点滴知识。"
+keyword: "蓝鲸, Chy蓝鲸,Chy, 蓝鲸的博客, Chy Blog, 博客"
+url: "https://jysun.top"                # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:      chysun
+zhihu_username:      chysun
+github_username:     chysun
+twitter_username:    chysun
+facebook_username:   chysun
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -30,12 +30,9 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","READM
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
-
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -45,38 +42,28 @@ markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-
 # Disqus settings
-disqus_username: hux
+disqus_username: chy
 
 # Netease setttings
 netease_comment: false
-
-
 
 # Analytics settings
 # Baidu Analytics 
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
-
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: jysun1993.top
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-
-
+sidebar-about-description: "看看文献，搞搞科研，不断学习，至死不渝"
+sidebar-avatar: /img/avatar-chy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
-
-
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
@@ -87,37 +74,8 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+         title: "PSEG课题组",
+         href:"pseg.dlut.edu.cn"
+     },{
     }
 ]
